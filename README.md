@@ -1,5 +1,5 @@
-# *UNCCD* Dashboard:
-## G20 Global Land Initiative 
+# ☆ UNCCD Dashboard ☆
+## G20 Global Land Initiative 🌐
 * Invited to the Start Hack 2025 as the only female team, sponsored by our university.
 * This was a 36 hour process, to confer with our case partners, being the UNCCD G20 Global Land initiative leaders, innovate and invent, and program that idea into a reality.
 * We coded from scratch, without using any templates.
